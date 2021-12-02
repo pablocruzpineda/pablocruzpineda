@@ -1,4 +1,5 @@
 
+<hr>
 
 # 😎 Hola! mi nombre es Pablo Cruz Pineda
 
@@ -27,6 +28,7 @@
 - Pasarelas de pago
 - Proyectos para startups tech
 
+<hr>
 
 ### ME ENCUENTRAS EN:
 
@@ -41,11 +43,13 @@ https://genera.dev
 
 pablo@genera.mx
 
+<hr>
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablocruzpineda&hide=contribs,issues,prs&theme=buefy&show_icons=true&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocruzpineda&layout=compact)](https://github.com/pablocruzpineda/github-readme-stats)
 
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Crear+una+App+es+crear+un+activo.)](https://git.io/typing-svg)
 
