@@ -3,17 +3,31 @@
 # 😎 Hola! mi nombre es Pablo Cruz Pineda
 
 
-### Soy desarrollador Full Stack.
+### SOY DESARROLLADOR FULL STACK.
 
 
-### Mi Core actual es:
+### MI CORE ACTUAL ES:
 
-- VANILLA JAVASCRIPT / CSS / HTML
-- PHP / PYTHON / FLUTTER
-- NODE / EXPRESS / SOCKETIO
-- MONGODB / MYSQL / POSTGRESQL
-- JSON / GRAPHQL / RESTAPI
-- GCLOUD
-- APOYO EN COSAS DE LINUX A VECES
+- Vamila JavaScript / css / html
+- php / python / flutter 
+- node / express / socket.io
+- mongodb / mysql / postgresql
+- apis json / graphql / restapi
+- gcloud
+- linux stuff
 
-### 
+
+### ME ENCUENTRAS EN:
+
+[Linkedin](https://www.linkedin.com/in/pablocruzpineda)  
+
+[Twitter](@elpabos) 
+
+[Sitio](https://generatu.app/) 
+
+
+### ESCRÍBEME A:
+
+[eMail](pablo@genera.mx)
+
+
