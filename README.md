@@ -1,17 +1,19 @@
-### PABLO CRUZ PINEDA 
-FULL STACK DEVELOPMENT 
 
-<!--
-**pablocruzpineda/pablocruzpineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 😎 Hola! mi nombre es Pablo Cruz Pineda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Soy desarrollador Full Stack.
+
+
+### Mi Core actual es:
+
+- VANILLA JAVASCRIPT / CSS / HTML
+- PHP / PYTHON / FLUTTER
+- NODE / EXPRESS / SOCKETIO
+- MONGODB / MYSQL / POSTGRESQL
+- JSON / GRAPHQL / RESTAPI
+- GCLOUD
+- APOYO EN COSAS DE LINUX A VECES
+
+### 
