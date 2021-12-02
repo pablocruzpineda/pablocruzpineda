@@ -47,5 +47,7 @@ pablo@genera.mx
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocruzpineda&layout=compact)](https://github.com/pablocruzpineda/github-readme-stats)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Crear+una+App+es+crear+un+activo.)](https://git.io/typing-svg)
+
 
 
