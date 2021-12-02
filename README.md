@@ -6,7 +6,7 @@
 ### SOY DESARROLLADOR FULL STACK.
 
 
-### MI CORE ACTUAL ES:
+### STACK ACTUAL ES:
 
 - Vamila JavaScript / css / html
 - php / python / flutter 
@@ -17,18 +17,29 @@
 - linux stuff
 
 
+### PROYECTOS DE:
+- Aplicaciones móviles nativas y PWA's
+- Plataformas Web
+- eCommerce, Redes Sociales
+- Aplicaciones Real Time
+- Integraciones con cualquier API JSON
+- Micro servicios
+- Pasarelas de pago
+- Proyectos para startups tech
+
+
 ### ME ENCUENTRAS EN:
 
-[Linkedin](https://www.linkedin.com/in/pablocruzpineda)  
+https://www.linkedin.com/in/pablocruzpineda
 
-[Twitter](@elpabos) 
+https://twitter.com/elpabos
 
-[Sitio](https://generatu.app/) 
+https://genera.dev
 
 
 ### ESCRÍBEME A:
 
-[eMail](pablo@genera.mx)
+pablo@genera.mx
 
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablocruzpineda&hide=issues&theme=buefy&show_icons=true&count_private=true) 
