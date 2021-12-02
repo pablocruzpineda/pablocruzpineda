@@ -3,10 +3,10 @@
 # 😎 Hola! mi nombre es Pablo Cruz Pineda
 
 
-### SOY DESARROLLADOR FULL STACK.
+### SOY DESARROLLADOR FULL STACK
 
 
-### STACK ACTUAL ES:
+### CORE ACTUAL:
 
 - Vamila JavaScript / css / html
 - php / python / flutter 
