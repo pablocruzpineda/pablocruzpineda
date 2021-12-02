@@ -47,7 +47,7 @@ pablo@genera.mx
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablocruzpineda&hide=contribs,issues,prs&theme=buefy&show_icons=true&count_private=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocruzpineda&layout=compact)](https://github.com/pablocruzpineda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocruzpineda&layout=compact&count_private=true)](https://github.com/pablocruzpineda/github-readme-stats)
 
 <hr>
 
