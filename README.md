@@ -9,7 +9,7 @@
 
 ### CORE ACTUAL:
 
-- Vamila JavaScript / css / html
+- JavaScript / CSS / HTML
 - Flutter / SwiftUI / Jetpack Compose
 - PHP / Python 
 - NodeJS / Express / Sockets
