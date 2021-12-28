@@ -10,21 +10,22 @@
 ### CORE ACTUAL:
 
 - Vamila JavaScript / css / html
-- php / python / flutter 
-- node / express / socket.io
-- mongodb / mysql / postgresql
-- apis json / graphql / restapi
-- gcloud
-- linux stuff
+- Flutter / SwiftUI / Jetpack Compose
+- PHP / Python 
+- NodeJS / Express / Sockets
+- Mongodb / Mysql / Postgresql
+- API's JSON / Graphql / Restapi
+- GCloud / AWS
+- Linux Stuff
 
 
 ### PROYECTOS DE:
+
 - Aplicaciones móviles nativas y PWA's
 - Plataformas Web
 - eCommerce, Redes Sociales
-- Aplicaciones Real Time
-- Integraciones con cualquier API JSON
-- Micro servicios
+- Aplicaciones Real Time (Chats, Mapas, Redes Sociales)
+- Integraciones con cualquier API
 - Pasarelas de pago
 - Proyectos para startups tech
 
