@@ -44,6 +44,10 @@ https://genera.dev
 
 pablo@genera.mx
 
+### WALLET:
+
+pablocruz.eth
+
 <hr>
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablocruzpineda&hide=contribs,issues,prs&theme=buefy&show_icons=true&count_private=true) 
