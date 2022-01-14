@@ -10,7 +10,7 @@
 ### CORE ACTUAL:
 
 - JavaScript / CSS / HTML
-- Flutter / SwiftUI / Jetpack Compose
+- Flutter
 - PHP / Python 
 - NodeJS / Express / Sockets
 - Mongodb / Mysql / Postgresql
