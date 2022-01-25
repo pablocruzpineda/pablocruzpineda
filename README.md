@@ -10,18 +10,20 @@
 ### CORE ACTUAL:
 
 - JavaScript / CSS / HTML
+- Next JS / React
 - Flutter
 - PHP / Python 
-- NodeJS / Express / Sockets
+- NodeJS / Express / SocketsIO
 - Mongodb / Mysql / Postgresql
 - API's JSON / Graphql / Restapi
-- GCloud / AWS
+- GCloud / AWS / Vercel / Heroku
 - Linux Stuff
 
 
 ### PROYECTOS DE:
 
 - Aplicaciones móviles nativas y PWA's
+- Static Pages y Web Apps
 - Plataformas Web
 - eCommerce, Redes Sociales
 - Aplicaciones Real Time (Chats, Mapas, Redes Sociales)
