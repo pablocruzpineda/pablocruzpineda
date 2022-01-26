@@ -23,7 +23,7 @@
 ### PROYECTOS DE:
 
 - Aplicaciones móviles nativas y PWA's
-- Static / Incremental Page Apps
+- Single / Incremental Page Apps
 - Plataformas Web
 - eCommerce, Redes Sociales
 - Aplicaciones Real Time (Chats, Mapas, Redes Sociales)
