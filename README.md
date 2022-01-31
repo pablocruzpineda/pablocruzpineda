@@ -10,13 +10,13 @@
 ### CORE ACTUAL:
 
 - JavaScript / CSS / HTML
-- Next JS / React
+- React / Next JS
 - Flutter
 - PHP / Python 
 - NodeJS / Express / SocketsIO
 - Mongodb / Mysql / Postgresql
 - API's JSON / Graphql / Restapi
-- GCloud / AWS / Vercel / Heroku
+- GCloud / Vercel / Heroku / Netlify
 - Linux Stuff
 
 
