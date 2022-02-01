@@ -15,19 +15,18 @@
 - PHP / Python 
 - NodeJS / Express / SocketsIO
 - Mongodb / Mysql / Postgresql
-- API's JSON / Graphql / Restapi
+- GraphQL / Prisma / Apollo / Harusa
 - GCloud / Vercel / Heroku / Netlify
-- Linux Stuff
 
 
 ### PROYECTOS DE:
 
 - Aplicaciones móviles nativas y PWA's
 - Single / Incremental Page Apps
-- Plataformas Web
+- Serverless Apps
 - eCommerce, Redes Sociales
-- Aplicaciones Real Time (Chats, Mapas, Redes Sociales)
-- Integraciones con cualquier API
+- Real Time Apps (Chats, Mapas, Subscriptions, Events)
+- Integraciones
 - Pasarelas de pago
 - Proyectos para startups tech
 
