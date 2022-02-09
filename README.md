@@ -14,7 +14,7 @@
 - Flutter
 - NodeJS / Express / SocketIO
 - Mongodb / Postgresql
-- GraphQL / Prisma / Apollo / Harusa
+- GraphQL / Prisma / Apollo / Hasura
 - GCloud / Vercel / Heroku / Netlify
 
 
