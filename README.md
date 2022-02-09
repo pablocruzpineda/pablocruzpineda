@@ -7,14 +7,13 @@
 ### SOY DESARROLLADOR FULL STACK
 
 
-### CORE ACTUAL:
+### CORE ACTUAL: (JAMSTACK)
 
 - JavaScript / CSS / HTML
 - React / Next JS
 - Flutter
-- PHP / Python 
-- NodeJS / Express / SocketsIO
-- Mongodb / Mysql / Postgresql
+- NodeJS / Express / SocketIO
+- Mongodb / Postgresql
 - GraphQL / Prisma / Apollo / Harusa
 - GCloud / Vercel / Heroku / Netlify
 
