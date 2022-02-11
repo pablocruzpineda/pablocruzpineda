@@ -10,7 +10,7 @@
 ### CORE ACTUAL: (JAMSTACK)
 
 - JavaScript / CSS / HTML
-- React / Next JS
+- React / NextJS / Svelte 
 - Flutter
 - NodeJS / Express / SocketIO
 - Mongodb / Postgresql
