@@ -11,9 +11,9 @@
 
 - JavaScript / CSS / HTML
 - React / NextJS / Svelte 
-- Flutter
+- Flutter / React Native
 - NodeJS / Express / SocketIO
-- Mongodb / Postgresql
+- Mongodb / Postgresql / SQL
 - GraphQL / Prisma / Apollo / Hasura
 - GCloud / Vercel / Heroku / Netlify
 
@@ -28,6 +28,8 @@
 - Integraciones
 - Pasarelas de pago
 - Proyectos para startups tech
+- eLearning
+- Dashboard
 
 <hr>
 
