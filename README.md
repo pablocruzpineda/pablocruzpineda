@@ -1,7 +1,7 @@
 
 <hr>
 
-# 😎 Hola! mi nombre es Pablo Cruz Pineda
+# Hola! mi nombre es Pablo Cruz Pineda
 
 
 ### SOY DESARROLLADOR FULL STACK
