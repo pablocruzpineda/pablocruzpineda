@@ -37,8 +37,6 @@
 
 https://www.linkedin.com/in/pablocruzpineda
 
-https://twitter.com/elpabos
-
 https://genera.dev
 
 
@@ -46,9 +44,6 @@ https://genera.dev
 
 pablo@genera.mx
 
-### WALLET:
-
-pablocruz.eth
 
 <hr>
 
