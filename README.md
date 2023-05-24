@@ -37,7 +37,7 @@
 
 https://www.linkedin.com/in/pablocruzpineda
 
-https://genera.dev
+https://genera.mx
 
 
 ### ESCRÍBEME A:
