@@ -2,7 +2,7 @@
 <hr>
 
 ### Hello! I'm Pablo Cruz Pineda, 
-### I'm a Full Stack Developer with expertise in various technologies.
+### Full Stack Developer with expertise in various technologies.
 
 - **Frameworks:**
   - React / NextJS / VueJS / TypeScript
