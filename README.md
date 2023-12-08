@@ -7,29 +7,40 @@
 ### SOY DESARROLLADOR FULL STACK
 
 
-### CORE ACTUAL: (JAMSTACK)
-
-- JavaScript / CSS / HTML
+### FRAMEWORKS:
 - React / NextJS / VueJS / TypeScript
 - Flutter / React Native
 - NodeJS / Express / SocketIO
-- Mongodb / Postgresql / SQL
+- Python
+
+### DB's / ORM's / API's
+- Mongodb / Postgresql / SQL / MYSQL
 - GraphQL / Prisma / Apollo / Hasura
+- RestFUll API
+
+### Providers:
 - GCloud / Vercel / Heroku / Netlify
+- AWS / DigitalOcean / Render
 
 
-### PROYECTOS DE:
-
+### PROYECTOS GENERALES DE:
 - Aplicaciones móviles nativas y PWA's
 - Single / Incremental Page Apps
 - Serverless Apps
 - eCommerce, Redes Sociales
 - Real Time Apps (Chats, Mapas, Subscriptions, Events)
-- Integraciones
+- Integraciones API's y CRM's
 - Pasarelas de pago
 - Proyectos para startups tech
 - eLearning
-- Dashboard
+- Dashboards
+
+### NUEVOS PROYECTOS IA:
+- Integraciones con OpenAI
+- LLM's: GPT4, LLama
+- Integraciones con LangChain
+- Vectors DB's
+- WhatsApp Bailey's
 
 <hr>
 
