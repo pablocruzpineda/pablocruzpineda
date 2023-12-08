@@ -1,57 +1,53 @@
 
 <hr>
 
-# Hola! mi nombre es Pablo Cruz Pineda
+### Hello! I'm Pablo Cruz Pineda, 
+### I'm a Full Stack Developer with expertise in various technologies.
 
+- **Frameworks:**
+  - React / NextJS / VueJS / TypeScript
+  - Flutter / React Native
+  - NodeJS / Express / SocketIO
+  - Python
+  - DB's / ORM's / API's
+    - Mongodb / Postgresql / SQL / MYSQL
+    - GraphQL / Prisma / Apollo / Hasura
+  - Restful API
 
-### SOY DESARROLLADOR FULL STACK
+- **Providers:**
+  - GCloud / Vercel / Heroku / Netlify
+  - AWS / DigitalOcean / Render
 
+- **General Projects:**
+  - Native mobile apps, PWA's
+  - Single / Incremental Page Apps
+  - Serverless Apps
+  - eCommerce, Social Networks
+  - Real-Time Apps (Chats, Maps, Subscriptions, Events)
+  - API and CRM Integrations
+  - Payment gateways
+  - Tech startup projects
+  - eLearning
+  - Dashboards
 
-### FRAMEWORKS:
-- React / NextJS / VueJS / TypeScript
-- Flutter / React Native
-- NodeJS / Express / SocketIO
-- Python
+- **New AI Projects:**
+  - Integrations with OpenAI
+  - LLM's: GPT-4, LLama
+  - Integrations with LangChain
+  - Vectors DB's
+  - WhatsApp Bailey's
 
-### DB's / ORM's / API's
-- Mongodb / Postgresql / SQL / MYSQL
-- GraphQL / Prisma / Apollo / Hasura
-- RestFUll API
-
-### Providers:
-- GCloud / Vercel / Heroku / Netlify
-- AWS / DigitalOcean / Render
-
-
-### PROYECTOS GENERALES DE:
-- Aplicaciones móviles nativas y PWA's
-- Single / Incremental Page Apps
-- Serverless Apps
-- eCommerce, Redes Sociales
-- Real Time Apps (Chats, Mapas, Subscriptions, Events)
-- Integraciones API's y CRM's
-- Pasarelas de pago
-- Proyectos para startups tech
-- eLearning
-- Dashboards
-
-### NUEVOS PROYECTOS IA:
-- Integraciones con OpenAI
-- LLM's: GPT4, LLama
-- Integraciones con LangChain
-- Vectors DB's
-- WhatsApp Bailey's
 
 <hr>
 
-### ME ENCUENTRAS EN:
+### You can find me here:
 
 https://www.linkedin.com/in/pablocruzpineda
 
 https://genera.mx
 
 
-### ESCRÍBEME A:
+### Write me to:
 
 pablo@genera.mx
 
